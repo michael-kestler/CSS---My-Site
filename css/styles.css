@@ -56,4 +56,14 @@ h3 {
 .skill-row{
   width: 50%;
   margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.backend{
+  width:25%;
+}
+
+.front-end{
+  width:25%;
 }
