@@ -83,9 +83,20 @@ a{
 }
 
 hr {
- border-style: none;
- border-top-style: dotted;
- border-color: #EAF6F6;
- border-width: 10px;
- width: 5%;
+ border: dotted #EAF6F6 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+}
+
+.btn{
+  background: #11cdd4;
+  background-image:linear-gradient(to bottom, #11cdd4,
+    #11999e);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
 }
