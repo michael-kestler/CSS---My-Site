@@ -1,2 +1,4 @@
 # michael-kestler.github.io
-![image](https://user-images.githubusercontent.com/101147302/187003438-2f03dc63-b541-4401-b257-80a81ce473e5.png)
+<p align="center"><a  href="https://michael-kestler.github.io/">
+<img width="900" alt="Screen Shot 2022-08-26 at 5 05 35" src="https://user-images.githubusercontent.com/101147302/187005732-0c789893-44d8-4322-8a9c-b1e124523494.png"></a>
+</p>
